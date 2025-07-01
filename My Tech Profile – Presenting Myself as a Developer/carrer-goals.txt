@@ -1,0 +1,9 @@
+Career Goals
+● What job or area I want to work in:
+I want to work as a front-end developer or full-stack developer, building modern and responsive web applications.
+
+● A company or type of company I admire:
+I admire tech companies that focus on innovation and user-centered design, such as Google, Nubank, or startups that bring creative solutions to real-world problems.
+
+● Plans for future learning:
+I plan to improve my skills in JavaScript frameworks like React and Next.js, learn backend technologies such as Node.js and databases, and study cloud services like AWS. I’m also interested in improving my English and soft skills to be prepared for international opportunities.
